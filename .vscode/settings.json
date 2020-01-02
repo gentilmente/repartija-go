@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "database": "go-test",
+      "dialect": "PostgreSQL",
+      "name": "cn",
+      "password": "admin",
+      "port": 5432,
+      "server": "localhost",
+      "username": "peste"
+    }
+  ]
+}
